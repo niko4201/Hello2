@@ -1,5 +1,0 @@
-Hello World 
-This is Sahil Chavan
-Learning Git & Github
-But it seems that i'm kinda stuck in git only
-Let's hope it's not more time consuming than expected
